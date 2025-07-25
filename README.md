@@ -31,8 +31,8 @@ I'm a **Software Engineer** with expertise in **Embedded Systems**, **IoT**, **I
 ---
 
 ### 📫 How to reach me
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/dharanesh/)
-- **Email**: [dharanesh.v.a@gmail.com](mailto:dharanesh.v.a@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/0xdharanesh/)
+- **Email**: [dharanesh.v.a@gmail.com](mailto:0xdharanesh@gmail.com)
 - **GitHub**: [GitHub profile](https://github.com/0xdharanesh)
 
 ---
