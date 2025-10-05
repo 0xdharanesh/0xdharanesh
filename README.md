@@ -2,7 +2,7 @@
 
 🎯 **Embedded Systems | IoT | IIoT | Full-Stack Developer | Networking, Cybersecurity & Electronics Enthusiast**
 
-I'm a **Software Engineer** with expertise in **Embedded Systems**, **IoT**, **IIoT**, **Networking**, **Cybersecurity**, and **Electronics**. I enjoy building smart, connected, and secure systems that bridge hardware and software.
+I'm a **Engineer** with expertise in **Embedded Systems**, **IoT**, **IIoT**, **Networking**, **Cybersecurity**, and **Electronics**. I enjoy building smart, connected, and secure systems that bridge hardware and software.
 
 ---
 
@@ -15,24 +15,20 @@ I'm a **Software Engineer** with expertise in **Embedded Systems**, **IoT**, **I
 ---
 
 ### ⚙️ Tech Stack
-- **Languages**: C, C++, Python, JavaScript
-- **Frameworks**: Node.js, React, Django
-- **Embedded/IoT**: ARM Cortex, Arduino, Raspberry Pi, ESP32
+- **Languages**: C, C++, CSS, Dart, HTML, JavaScript, Python, PHP 
+- **Frameworks**: ESP-IDF, Flutter, Django
+- **Embedded/IoT**: ARM Cortex, Arduino, Raspberry Pi, ESP, Nuvoton, STM, PIC
 - **Cloud/Networking**: MQTT, AWS IoT, TCP/IP, Firewalls, VPNs
-- **Tools**: Git, Docker, Wireshark, Nmap
+- **IT & Security**: Windows/Linux Administration, CCTV/Camera Management, Network Configuration, IT Support, Network Shared Storage (SMB/NAS)
+- **Tools**: Git, Docker, Wireshark, Nmap, Burp
 
----
-
-### 🌱 Currently Learning
-- Networking for IoT
-- AI/ML for IIoT
-- Cybersecurity for embedded systems
+**🌱 Learning Everyday :)**
 
 ---
 
 ### 📫 How to reach me
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/0xdharanesh/)
-- **Email**: [dharanesh.v.a@gmail.com](mailto:0xdharanesh@gmail.com)
+- **Email**: [0xdharanesh@gmail.com](mailto:0xdharanesh@gmail.com)
 - **GitHub**: [GitHub profile](https://github.com/0xdharanesh)
 
 ---
